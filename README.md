@@ -1,3 +1,8 @@
+## Disclaimer
+
+This fork was created in order to fix specific issues from the original project that is apparently
+abandoned. If that project is revived and the necessary pull requests merged, it is intended
+that this fork will be deleted.
 
 <p align="center">
   <img src="resources/readme/fullstackreact-google-maps-tutorial.png" alt="Fullstack React Google Maps Tutorial" />
